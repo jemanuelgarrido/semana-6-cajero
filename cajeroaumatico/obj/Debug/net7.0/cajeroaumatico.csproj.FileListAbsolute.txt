@@ -1,0 +1,15 @@
+/Users/emanuelgarrido/Projects/cajeroaumatico/cajeroaumatico/bin/Debug/net7.0/cajeroaumatico
+/Users/emanuelgarrido/Projects/cajeroaumatico/cajeroaumatico/bin/Debug/net7.0/cajeroaumatico.deps.json
+/Users/emanuelgarrido/Projects/cajeroaumatico/cajeroaumatico/bin/Debug/net7.0/cajeroaumatico.runtimeconfig.json
+/Users/emanuelgarrido/Projects/cajeroaumatico/cajeroaumatico/bin/Debug/net7.0/cajeroaumatico.dll
+/Users/emanuelgarrido/Projects/cajeroaumatico/cajeroaumatico/bin/Debug/net7.0/cajeroaumatico.pdb
+/Users/emanuelgarrido/Projects/cajeroaumatico/cajeroaumatico/obj/Debug/net7.0/cajeroaumatico.csproj.AssemblyReference.cache
+/Users/emanuelgarrido/Projects/cajeroaumatico/cajeroaumatico/obj/Debug/net7.0/cajeroaumatico.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emanuelgarrido/Projects/cajeroaumatico/cajeroaumatico/obj/Debug/net7.0/cajeroaumatico.AssemblyInfoInputs.cache
+/Users/emanuelgarrido/Projects/cajeroaumatico/cajeroaumatico/obj/Debug/net7.0/cajeroaumatico.AssemblyInfo.cs
+/Users/emanuelgarrido/Projects/cajeroaumatico/cajeroaumatico/obj/Debug/net7.0/cajeroaumatico.csproj.CoreCompileInputs.cache
+/Users/emanuelgarrido/Projects/cajeroaumatico/cajeroaumatico/obj/Debug/net7.0/cajeroaumatico.dll
+/Users/emanuelgarrido/Projects/cajeroaumatico/cajeroaumatico/obj/Debug/net7.0/refint/cajeroaumatico.dll
+/Users/emanuelgarrido/Projects/cajeroaumatico/cajeroaumatico/obj/Debug/net7.0/cajeroaumatico.pdb
+/Users/emanuelgarrido/Projects/cajeroaumatico/cajeroaumatico/obj/Debug/net7.0/cajeroaumatico.genruntimeconfig.cache
+/Users/emanuelgarrido/Projects/cajeroaumatico/cajeroaumatico/obj/Debug/net7.0/ref/cajeroaumatico.dll
